@@ -178,3 +178,5 @@ In an era where email-based attacks are becoming increasingly sophisticated, hav
 Whether you're protecting your family from phishing scams, securing your small business communications, or learning about AI applications in cybersecurity, this project serves as both a practical tool and an educational resource.
 
 ---
+https://fatimazahra-smart-guardian.streamlit.app
+
